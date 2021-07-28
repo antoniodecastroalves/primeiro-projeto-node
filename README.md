@@ -1,1 +1,1 @@
-### Primeiro projeto com Node.js do Bootcamp Gostack 14 da Rocketseat
+### Primeiro projeto com Node.js do Bootcamp Gostack 12 da Rocketseat
